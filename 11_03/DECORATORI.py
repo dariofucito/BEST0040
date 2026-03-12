@@ -39,8 +39,7 @@ def mio_decoratore(funziona_originale):
 def saluta2(nome):
     print(f"Ciao, {nome}")
     
-saluta2_decorata = mio_decoratore(saluta2)
-saluta2_decorata ("Mario")
+saluta2_decorata = mio_decoratore(saluta2)("Giovanni")
+#saluta2_decorata ("Mario")
 saluta2("Marco")
 
-#ESEMPIO PRATICO: COME MISURARE IL TEMPO DI ESECUZIONE
