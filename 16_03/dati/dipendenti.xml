@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<azienda nome="TechCorp" anno="2010">
+  <dipartimento id="1" nome="Engineering">
+    <dipendente id="101" senior="true">
+      <nome>Alice Rossi</nome>
+      <ruolo>Senior Developer</ruolo>
+      <stipendio valuta="EUR">78000</stipendio>
+      <skills><skill>Python</skill><skill>Java</skill><skill>Docker</skill></skills>
+    </dipendente>
+    <dipendente id="102" senior="false">
+      <nome>Bob Verdi</nome>
+      <ruolo>Backend Developer</ruolo>
+      <stipendio valuta="EUR">65000</stipendio>
+      <skills><skill>Python</skill><skill>PostgreSQL</skill></skills>
+    </dipendente>
+  </dipartimento>
+  <dipartimento id="2" nome="QA">
+    <dipendente id="201" senior="false">
+      <nome>Charlie Bianchi</nome>
+      <ruolo>QA Engineer</ruolo>
+      <stipendio valuta="EUR">62000</stipendio>
+      <skills><skill>Selenium</skill><skill>Python</skill><skill>Java</skill></skills>
+    </dipendente>
+  </dipartimento>
+</azienda>

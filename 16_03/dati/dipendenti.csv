@@ -1,0 +1,9 @@
+id,nome,cognome,ruolo,team,stipendio,data_assunzione
+1,Alice,Rossi,Senior Developer,Backend,78000,2019-03-15
+2,Bob,Verdi,QA Engineer,Testing,62000,2020-07-01
+3,Charlie,Bianchi,Data Analyst,Analytics,68000,2018-11-20
+4,Diana,Neri,DevOps Engineer,Infrastructure,74000,2021-02-14
+5,Emilio,Gialli,Product Manager,Product,82000,2017-09-10
+6,Francesca,Azzurri,Frontend Dev,Frontend,71000,2022-05-23
+7,Giorgio,Marroni,Backend Dev,Backend,69000,2023-01-08
+8,Helen,Grigi,Test Automation,Testing,65000,2020-12-01

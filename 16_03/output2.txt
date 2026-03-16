@@ -1,0 +1,9 @@
+Alice Rossi, developer,backend, 78001
+Mario Verdi, tester,qa, 62000
+
+Carlo Bianchi, analyst,data, 68000
+
+
+Diana Neri, devops, infra, 74000
+
+

@@ -1,0 +1,20 @@
+LOG_CONTENT = """2026-03-11 09:00:01 INFO Applicazione avviata
+2026-03-11 09:00:05 INFO  Connessione DB stabilita
+2026-03-11 09:00:45 INFO  Cache inizializzata: 1024MB
+2026-03-11 09:01:22 WARNING  Latenza elevata: 250ms su /api/orders
+2026-03-11 09:01:55 INFO  Richiesta completata: GET /api/users 200
+2026-03-11 09:02:10 INFO  Richiesta completata: POST /api/orders 201
+2026-03-11 09:02:55 ERROR  Timeout connessione: /api/products (30s)
+2026-03-11 09:03:10 ERROR  NullPointerException in UserService.getById()
+2026-03-11 09:03:45 WARNING  Memoria heap: 85% utilizzata
+2026-03-11 09:04:00 INFO  GC eseguito: freed 256MB
+2026-03-11 09:05:12 ERROR  DB connection pool esaurito (max=20)
+2026-03-11 09:05:30 WARNING  Retry tentativo 1/3 per /api/payments
+2026-03-11 09:05:35 WARNING  Retry tentativo 2/3 per /api/payments
+2026-03-11 09:05:40 ERROR  Retry esaurito per /api/payments: ServiceUnavailable
+2026-03-11 09:06:00 INFO  Health check: OK
+2026-03-11 09:06:30 INFO  Richiesta: GET /api/health 200
+2026-03-11 09:07:15 ERROR  Autenticazione fallita: token scaduto per user#4821
+2026-03-11 09:08:00 INFO  Sessione terminata: user#4821
+2026-03-11 09:09:10 WARNING  Rate limit vicino: 950/1000 req/min
+2026-03-11 09:10:00 INFO  Applicazione in arresto ordinato"""
