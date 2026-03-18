@@ -1,0 +1,50 @@
+============================================================
+  REPORT ORGANIZZATIVO
+  Generato: 2026-03-17 21:33:51
+============================================================
+
+--- RIEPILOGO ---
+  Totale dipendenti: 8
+  Numero team: 6
+  Stipendio medio: €71,125
+
+--- TEAM ANALYTICS ---
+  Nome     Cognome  Ruolo         Stipendio  Da        
+  -------  -------  ------------  ---------  ----------
+  Charlie  Bianchi  Data Analyst  €68,000    2018-11-20
+  Totale stipendi team: €68,000
+
+--- TEAM BACKEND ---
+  Nome     Cognome  Ruolo             Stipendio  Da        
+  -------  -------  ----------------  ---------  ----------
+  Alice    Rossi    Senior Developer  €78,000    2019-03-15
+  Giorgio  Marroni  Backend Dev       €69,000    2023-01-08
+  Totale stipendi team: €147,000
+
+--- TEAM FRONTEND ---
+  Nome       Cognome  Ruolo         Stipendio  Da        
+  ---------  -------  ------------  ---------  ----------
+  Francesca  Azzurri  Frontend Dev  €71,000    2022-05-23
+  Totale stipendi team: €71,000
+
+--- TEAM INFRASTRUCTURE ---
+  Nome   Cognome  Ruolo            Stipendio  Da        
+  -----  -------  ---------------  ---------  ----------
+  Diana  Neri     DevOps Engineer  €74,000    2021-02-14
+  Totale stipendi team: €74,000
+
+--- TEAM PRODUCT ---
+  Nome    Cognome  Ruolo            Stipendio  Da        
+  ------  -------  ---------------  ---------  ----------
+  Emilio  Gialli   Product Manager  €82,000    2017-09-10
+  Totale stipendi team: €82,000
+
+--- TEAM TESTING ---
+  Nome   Cognome  Ruolo            Stipendio  Da        
+  -----  -------  ---------------  ---------  ----------
+  Bob    Verdi    QA Engineer      €62,000    2020-07-01
+  Helen  Grigi    Test Automation  €65,000    2020-12-01
+  Totale stipendi team: €127,000
+
+------------------------------------------------------------
+Fine report — 17 righe contenuto
